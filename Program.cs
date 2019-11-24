@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
-using Microsoft.ProjectOxford.Text.Core;
-using Microsoft.ProjectOxford.Text.Core.Exceptions;
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
@@ -17,11 +15,7 @@ namespace Cognitive_SentimentAnalysis
     {
         public class TextAnalyticsSentimentV3Client
         {
-            //You can get the reqeust url by going to: 
-            //https://centralus.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-0-preview/operations/56f30ceeeda5650db055a3c9
-            //and clicking on the region (e.g. Central US). 
             private static readonly string textAnalyticsUrl = "https://australiaeast.api.cognitive.microsoft.com/text/analytics/v3.0-preview/sentiment";
-
             private static readonly string textAnalyticsKey = "2e1ea097e1e34b2790ecd43efe9ccd6c";
 
             public static async Task<SentimentV3Response> SentimentV3PreviewPredictAsync(TextAnalyticsBatchInput inputDocuments)
