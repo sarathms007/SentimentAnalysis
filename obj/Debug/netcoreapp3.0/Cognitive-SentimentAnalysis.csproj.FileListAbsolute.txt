@@ -1,0 +1,14 @@
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.exe
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.deps.json
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.runtimeconfig.json
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.runtimeconfig.dev.json
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.dll
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.pdb
+X:\Workspace\NET\Cognitive-SentimentAnalysis\obj\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.csprojAssemblyReference.cache
+X:\Workspace\NET\Cognitive-SentimentAnalysis\obj\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.AssemblyInfoInputs.cache
+X:\Workspace\NET\Cognitive-SentimentAnalysis\obj\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.AssemblyInfo.cs
+X:\Workspace\NET\Cognitive-SentimentAnalysis\obj\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.dll
+X:\Workspace\NET\Cognitive-SentimentAnalysis\obj\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.pdb
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Microsoft.ProjectOxford.Text.dll
+X:\Workspace\NET\Cognitive-SentimentAnalysis\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+X:\Workspace\NET\Cognitive-SentimentAnalysis\obj\Debug\netcoreapp3.0\Cognitive-SentimentAnalysis.csproj.CopyComplete
